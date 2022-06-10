@@ -64,7 +64,7 @@ void keypad(){
         display(6);
         while(R2 == 1);
     }
-    if(R3 == 9){
+    if(R3 == 1){
         display(7);
         while(R3 == 1);
     }    
